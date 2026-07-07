@@ -415,7 +415,7 @@
       "revisionNumber": 12
     },
     {
-      "filename": "NintendoEntertainmentSystem.json",
+      "filename": "Famicom.json",
       "platformName": "Famicom System",
       "platformShortname": "fc",
       "platformUniqueId": "fc",
@@ -716,8 +716,8 @@
       "revisionNumber": 13
     },
     {
-      "filename": "SuperNintendoEntertainmentSystem.json",
-      "platformName": "Super Famicon System",
+      "filename": "SuperFamicom.json",
+      "platformName": "Super Famicom System",
       "platformShortname": "sfc",
       "platformUniqueId": "sfc",
       "revisionNumber": 13
