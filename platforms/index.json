@@ -415,6 +415,13 @@
       "revisionNumber": 12
     },
     {
+      "filename": "NintendoEntertainmentSystem.json",
+      "platformName": "Famicom System",
+      "platformShortname": "fc",
+      "platformUniqueId": "fc",
+      "revisionNumber": 12
+    },
+    {
       "filename": "NintendoGame&Watch.json",
       "platformName": "Nintendo - Game & Watch",
       "platformShortname": "gw",
@@ -706,6 +713,13 @@
       "platformName": "Super Nintendo Entertainment System",
       "platformShortname": "snes",
       "platformUniqueId": "snes",
+      "revisionNumber": 13
+    },
+    {
+      "filename": "SuperNintendoEntertainmentSystem.json",
+      "platformName": "Super Famicon System",
+      "platformShortname": "sfc",
+      "platformUniqueId": "sfc",
       "revisionNumber": 13
     },
     {
